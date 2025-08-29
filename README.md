@@ -11,15 +11,16 @@ python >= 3.7
 jittor >= 1.3.0
 安装依赖
 执行以下命令安装 python 依赖
-'''
+
+```
 pip install jittor
-'''
+```
 
 ## 训练
 运行以下命令：
-'''
+```
 python CGAN.py
-'''
+```
 即可在同一目录下进行训练并生成 result.png
 
 ## 致谢
